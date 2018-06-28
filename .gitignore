@@ -328,3 +328,11 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+.gitattributes
+BeastTeam/BeastTeam.sln
+BeastTeam/BeastTeam/BeastTeam.csproj
+BeastTeam/BeastTeam/Properties/AssemblyInfo.cs
+BeastTeam/BeastTeam/Properties/Resources.Designer.cs
+BeastTeam/BeastTeam/Properties/Resources.resx
+BeastTeam/BeastTeam/Properties/Settings.Designer.cs
+BeastTeam/BeastTeam/Properties/Settings.settings
